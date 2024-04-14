@@ -51,6 +51,9 @@ header{
     padding: 18px 10%;
     transition: 0.2s;
 }
+header .shadow{
+    box-shadow: 0 0 4px rgb(14 55 54 / 15%);
+}
 .logo{
     font-size: 1.1rem;
     font-weight: 600;
